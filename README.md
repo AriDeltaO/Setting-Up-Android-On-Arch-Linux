@@ -6,7 +6,7 @@ By using a package known as waydroid we can make an Android environement in Arch
 
 > [!CAUTION]
 > Make sure you have an internet connection and an user with sudo perms.
-> Make you have an AUR helper setup such as yay
+> Make sure you have an AUR helper setup such as yay
 
 To install, execute the following commands:
 
